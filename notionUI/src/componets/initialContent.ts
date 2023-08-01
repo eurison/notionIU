@@ -34,6 +34,8 @@ export const initialContent = `
     </li>
 </ol>
 
+<pre><code class="language-javascript"> console.log('hello world');</code></pre>
+
 <blockquote>
     <p>"Tailwind CSS has taken the web development world by storm, empowering developers to build feature-rich web applications with unprecedented ease and efficiency."</p>
 </blockquote>
